@@ -14,7 +14,7 @@ cd tmux-config
 
 3. Copy the config file to home directory
 ```bash
-cp ./.tmux.config ~/.tmux.config
+cp ./.tmux.conf ~/.tmux.conf
 ```
 
 4. Open a empty tmux session (Or just attach to existing one)
