@@ -11,7 +11,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 git clone https://github.com/bot4o/tmux-config &&
 cd tmux-config
 ```
-
+> This configuration is setted up for `zsh` so to make it for `bash` or any other shell just enter the config file and change change the shell: `set -g default-command bash`  
 3. Copy the config file to home directory
 ```bash
 cp ./.tmux.conf ~/.tmux.conf
