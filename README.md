@@ -17,14 +17,11 @@ cd tmux-config
 cp ./.tmux.conf ~/.tmux.conf
 ```
 
-4. Open a empty tmux session (Or just attach to existing one)
+4. Open a empty tmux session (if you haven't done it already)
 ```bash
 tmux 
 ```
-or
-```bash
-tmux a
-```
+
 5. Source the config file
 ```bash 
 tmux source ~/.tmux.conf
