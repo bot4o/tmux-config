@@ -27,7 +27,7 @@ tmux a
 ```
 5. Source the config file
 ```bash 
-tmux source ~/.tmux.confg
+tmux source ~/.tmux.conf
 ```
 6. Enter the "Ctrl+B" and then "I" to install the plugins
 
